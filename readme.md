@@ -7,4 +7,4 @@ just install these requirements to your current project first:
 -npm install @headlessui/react
 -npm install react-icons --save
 
-this component made by react and tailwind css. make sure you already have that project
+the navbar.js is the parrents component that import the other components inside navbar folder
